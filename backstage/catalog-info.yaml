@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "dj2"
+  description: "sad"  
+  annotations:
+    github.com/project-slug: UTkasrh/ds
+spec:
+  type: service
+  owner: "guests"
+  lifecycle: experimental
